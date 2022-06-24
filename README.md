@@ -3,9 +3,9 @@
 - Cursando Engenharia de Software
 - Estudando programação
 <div>
-  <a href="https://github.com/Dynhoss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianPedro&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianPedro&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/willianPedro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianPedro&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianPedro&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,6 @@
   <a href = "mailto:wpgc2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willian-pedro-goncalves-377522239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Dynhoss/Dynhoss/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/willianPedro/willianPedro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
