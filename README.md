@@ -1,11 +1,11 @@
-## Olá, eu sou o Dynho 
+## Olá, eu sou o Willian 
 - Tenho 19 anos
 - Cursando Engenharia de Software
-- Aprendendo e estudando programação
+- Estudando programação
 <div>
   <a href="https://github.com/Dynhoss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dynhoss&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynhoss&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianPedro&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianPedro&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
